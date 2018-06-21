@@ -15,4 +15,4 @@ end
 def assign_rooms(array)
   room_assignemnts = []
   
-  array.eaxh_with_index
+  array.each_with_index {|element, index|
