@@ -13,4 +13,6 @@ def batch_badge_creator(array)
 end
 
 def assign_rooms(array)
+  room_assignemnts = []
   
+  array.eaxh_with_index
