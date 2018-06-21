@@ -16,3 +16,4 @@ def assign_rooms(array)
   room_assignemnts = []
   
   array.each_with_index {|element, index|
+  
